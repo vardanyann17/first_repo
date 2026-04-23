@@ -9,4 +9,6 @@
 #     s=x.split()
 #     return len(s[-1])
 # print(length('hello word'))
-        
+
+
+print('hello new world!')
