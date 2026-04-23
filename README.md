@@ -1,1 +1,1 @@
-# first_repo
+sa shat lav ban e,leetcodei xndir em lucel,ari irar het lucenq
